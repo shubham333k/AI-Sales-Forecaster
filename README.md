@@ -259,43 +259,6 @@ ai-sales-forecaster/
     ├── prophet_model.pkl          # Saved Prophet model
     └── lstm_model.h5              # Saved LSTM model
 ```
-
----
-
-## 💎 Resume Highlights
-
-Copy these powerful resume bullet points to showcase your work:
-
-### Data Analyst / Data Scientist Resume Bullets:
-
-```markdown
-• Built production-grade AI Sales Forecasting system achieving **94.3% forecast accuracy (MAPE)** 
-  using ensemble of Facebook Prophet and LSTM neural networks on 10,000+ transaction records
-
-• Engineered end-to-end data pipeline with automated EDA, seasonal decomposition, and 
-  confidence interval generation, reducing forecasting time by **80%**
-
-• Integrated **LangChain + Groq LLM (Llama 3 70B)** to enable natural language business 
-  intelligence queries, achieving sub-second response times for complex analytical questions
-
-• Developed interactive Plotly dashboards with **dark/light mode**, real-time model 
-  comparison, and one-click PDF report generation for executive stakeholders
-
-• Implemented automated feature importance analysis using SHAP-style Prophet components, 
-  identifying key drivers of **$2.3M in annual sales** across 4 regions and 3 categories
-
-• Deployed containerized Streamlit application with **caching strategies** and model 
-  persistence, supporting 100+ concurrent users with <2s load times
-```
-
-### Skills to Add to Your Resume:
-- **Time Series Forecasting** (Prophet, LSTM, TensorFlow, Keras)
-- **Generative AI Integration** (LangChain, Groq API, LLM Orchestration)
-- **Data Visualization** (Plotly, Streamlit, Interactive Dashboards)
-- **MLOps** (Model Persistence, Caching, Production Deployment)
-- **Business Intelligence** (EDA, Automated Insights, PDF Reporting)
-- **Python Stack** (Pandas, NumPy, scikit-learn)
-
 ---
 
 ## 📸 Screenshots
